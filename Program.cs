@@ -1,4 +1,8 @@
-﻿using System;
+﻿/* Kurs:        DT071G, Programmering i C#.NET
+   Moment:      Objektorienterad C#
+   Författare:  Marco Zintl
+*/
+using System;
 // Importerar Console-klassen
 using static System.Console;
 // Importerar IO-klassen för filhantering
